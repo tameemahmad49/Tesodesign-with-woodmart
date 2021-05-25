@@ -1,1 +1,1 @@
-# Tesodesign-with-woodmart(localhost practice wordPress)
+# Tesodesign-with-woodmart
